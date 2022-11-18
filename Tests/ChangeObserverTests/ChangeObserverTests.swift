@@ -6,6 +6,6 @@ final class ChangeObserverTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(ChangeObserver().text, "Hello, World!")
+//        XCTAssertEqual(ChangeObserver(value: <#_#>, action: <#(_) -> Void#>, content: <#() -> _#>).text, "Hello, World!")
     }
 }

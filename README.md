@@ -34,6 +34,6 @@ struct ContentView: View {
 
 You can add ChangeObserver to an Xcode project by adding it as a package dependency
 
-From the **File** menu, select **Swift Packages** -> **Add Package Dependency**...
-Enter https://github.com/HumorousGhost/ChangeObserver into the package repository URL text field.
-Link **ChangeObserver** to your application target.
+* From the **File** menu, select **Swift Packages** -> **Add Package Dependency**...
+* Enter https://github.com/HumorousGhost/ChangeObserver into the package repository URL text field.
+* Link **ChangeObserver** to your application target.
